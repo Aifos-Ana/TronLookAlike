@@ -56,3 +56,6 @@ Here's some insights of our game.
 </p>
 <br>
 <br />
+
+<hr>
+Project developed for Software Design and Testing Laboratory course @FEUP
